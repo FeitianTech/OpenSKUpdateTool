@@ -37,5 +37,8 @@ OpenSK's firmware update tool on all platforms.
  ```
  
 ## Build and Run
+You can package signal executable file with pyinstaller command.
+Or directly run command in terminal.
+ ```shell
   python3 main.py
-
+  ```
