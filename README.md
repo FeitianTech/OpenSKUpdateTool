@@ -43,3 +43,8 @@ Or directly run command in terminal.
  ```shell
   python3 main.py
   ```
+## Package 
+You can run shell in Linux and Mac 
+ ```shell
+ sh build.sh
+  ```
